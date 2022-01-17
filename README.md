@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![steam](https://user-images.githubusercontent.com/79119141/149841692-f453cf67-41b3-4ccf-b91d-6305cb93143e.gif)
+
+
+
 <!--
 **PauloHenriqueMelo/PauloHenriqueMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
